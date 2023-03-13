@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Software Engineer ( Mobile and Web Developer ), with passion for Deep Learning<br>🌱 I’m currently learning Deep Learning using Pytorch<br>💬 Ask me about any thing via Email or Add me on LinkedIn<br>⚡ Fun fact - still undergraduate -
+🔭 I’m Software Engineer ( Mobile and Web Developer ), with passion for Deep Learning<br>🌱 I’m currently focusing on flutter<br>💬 Ask me about any thing via Email or Add me on LinkedIn<br>⚡ Fun fact - still undergraduate -
 
 
 ## 🌐 Socials:
